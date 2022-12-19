@@ -1,0 +1,2 @@
+# nauka-git
+pierwsze commity
